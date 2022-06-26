@@ -1,5 +1,6 @@
 package guru.springframework.msscbreweryclient.client;
 
+import guru.springframework.msscbreweryclient.web.client.BreweryClient;
 import guru.springframework.msscbreweryclient.web.model.BeerDto;
 import guru.springframework.msscbreweryclient.web.model.CustomerDto;
 import org.junit.jupiter.api.Test;

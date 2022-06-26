@@ -1,4 +1,4 @@
-package guru.springframework.msscbreweryclient.client;
+package guru.springframework.msscbreweryclient.web.client;
 
 import guru.springframework.msscbreweryclient.web.model.BeerDto;
 import guru.springframework.msscbreweryclient.web.model.CustomerDto;
